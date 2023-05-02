@@ -376,6 +376,10 @@ nav .fa-solid{
         margin-bottom: 10px;
     }
 
+    .about-col-1 img {
+	width: 40%;
+    }
+
     .about-col-1, .about-col-2{
         flex-basis: 100%; 
     }
