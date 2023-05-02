@@ -377,7 +377,10 @@ nav .fa-solid{
     }
 
     .about-col-1 img {
-	width: 40%;
+     	width: 70%;
+      	border-radius: 20px; 
+     	float:left;
+     	padding-right: 20px;
     }
 
     .about-col-1, .about-col-2{
