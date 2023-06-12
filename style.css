@@ -92,7 +92,7 @@ nav ul li a:hover::after{
     margin-top: 1em;    
 	white-space:nowrap;
 	overflow:hidden;
-	-webkit-animation: typing 10s steps(100, end),
+	-webkit-animation: typing 4s steps(100, end),
 	                   blink-caret .5s step-end infinite alternate; 
 }
 
